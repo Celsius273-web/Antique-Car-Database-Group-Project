@@ -1,3 +1,4 @@
 # Antique-Car-Database-Group-Project
 This file manages antique car data using Binary Search Tree (BST) and Hash Table data structures. It handles file operations, user input, and various functionalities like adding, deleting, and searching cars. Additional features include undoing deletions, displaying data structures, and saving to files. 
 
+I wrote the insert, delete, search, the hash function, and all other class method in Hashtable.h except for isPrime, reHash, nextPrime. I also did the entire hashnode.h. I added in the hash table unit into the main functions search manager, undo delete, loadCarsFromFile, addNewCar, deleteCarbut. I realized that I had some errors regarding what the hashtable methods took in. With a some feedback I was able to correct these issues. I also created the viewing hash statistics function in main and the corresponding methods in the hashtable.h file.
